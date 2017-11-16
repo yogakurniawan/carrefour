@@ -1,7 +1,7 @@
 {
-  "name": "react-airbnb-navbar",
+  "name": "carrefour-fe-test",
   "version": "1.0.0",
-  "description": "React Airbnb Navbar",
+  "description": "Carrefour Frontend Test",
   "scripts": {
     "lint": "eslint .",
     "start": "next"
@@ -9,22 +9,16 @@
   "author": "Yoga Kurniawan",
   "license": "MIT",
   "dependencies": {
-    "classnames": "2.x",
-    "css-animation": "1.x",
     "next": "^3.2.2",
-    "node-uuid": "^1.4.8",
     "prop-types": "^15.5.6",
-    "rc-animate": "2.x",
-    "rc-collapse": "^1.7.6",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-redux": "^5.0.6",
-    "react-slick": "^0.15.4",
+    "react-styled-flexboxgrid": "^2.1.1",
     "redux": "^3.7.2",
     "redux-devtools-extension": "^2.13.2",
     "redux-form": "^7.0.4",
     "styled-components": "^2.2.3",
-    "styled-map": "^2.0.1",
     "styled-normalize": "^2.2.1",
     "styled-sanitize": "^1.0.0"
   },
